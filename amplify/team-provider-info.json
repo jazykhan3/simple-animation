@@ -1,0 +1,38 @@
+{
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forwardfartherfaster-master-64301-authRole",
+      "UnauthRoleArn": "arn:aws:iam::790499629718:role/amplify-forwardfartherfaster-master-64301-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::790499629718:role/amplify-forwardfartherfaster-master-64301-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forwardfartherfaster-master-64301-deployment",
+      "UnauthRoleName": "amplify-forwardfartherfaster-master-64301-unauthRole",
+      "StackName": "amplify-forwardfartherfaster-master-64301",
+      "StackId": "arn:aws:cloudformation:us-east-1:790499629718:stack/amplify-forwardfartherfaster-master-64301/7e44e050-b43a-11ee-b439-1269fb82aeb3",
+      "AmplifyAppId": "d28bd5yx86gt65"
+    },
+    "categories": {
+      "api": {
+        "forwardfartherfaster": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forwardfartherfaster-dev-221037-authRole",
+      "UnauthRoleArn": "arn:aws:iam::790499629718:role/amplify-forwardfartherfaster-dev-221037-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::790499629718:role/amplify-forwardfartherfaster-dev-221037-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forwardfartherfaster-dev-221037-deployment",
+      "UnauthRoleName": "amplify-forwardfartherfaster-dev-221037-unauthRole",
+      "StackName": "amplify-forwardfartherfaster-dev-221037",
+      "StackId": "arn:aws:cloudformation:us-east-1:790499629718:stack/amplify-forwardfartherfaster-dev-221037/f92ac460-b435-11ee-89c5-0e5addc286dd",
+      "AmplifyAppId": "d28bd5yx86gt65"
+    },
+    "categories": {
+      "auth": {
+        "forwardfartherfaster": {}
+      }
+    }
+  }
+}
